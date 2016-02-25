@@ -1,3 +1,4 @@
 ■git確認用新規です
 
 branchをdevelopに変更して、修正しています。
+再度修正をdevelopでします。
