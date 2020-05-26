@@ -4,3 +4,5 @@ branchをdevelopに変更して、修正しています。
 再度修正をdevelopでします。
 
 developに変更が欲しいので、追記します。
+
+operatorも追加。
